@@ -3,6 +3,7 @@
 ### To run:
 #### unzip data.zip in the same directory and open the GraphQSAT_driver_code.ipynb in Google Colab and run the cells.
 
+#### GraphQSAT_submission_report summarizes the work done in the original paper and in my review and extension project.
 
 
 #### This Project is part of cse 257: Search and Optimization course at UCSD taken during Spring 2021. 
